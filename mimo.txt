@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Hello world</h1>
+  <script src="script.js"></script>
+<p> <strong>jingle bells!</strong></p>
+<button> Pedro </button> 
+<br>
+<img src="https://images.nightcafe.studio/jobs/BVmZXT2WjLgZnCNFKh0F/BVmZXT2WjLgZnCNFKh0F-Pvej1.jpg?tr=w-1600,c-at_max" width ="300" height= "200">
+<br>
+<button> Fatima</button>
+
+</body>
+</html>
